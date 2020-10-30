@@ -1,5 +1,6 @@
 <?php
-
+// 1. Удаление ноды
+// 2. Обход деревьев LNR, LRN, NLR
 /**
  * Class Node
  * Node $left
